@@ -11,9 +11,6 @@ Special thanks to Adafruit and oksbwn for give me a lot of the source code i nee
 
 
 
-
-
-
 Library descriptions: 
 
 # Adafruit AM2320 Library [![Build Status](https://travis-ci.org/adafruit/Adafruit_AM2320.svg?branch=master)](https://travis-ci.org/adafruit/Adafruit_AM2320)
