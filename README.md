@@ -1,12 +1,17 @@
-This source code handles a artduino weather-station with humidity, temperature and pressure sensors. 
+This source code handles a arduino weather-station with humidity, temperature and pressure sensors. 
 This following Sensor i use for my Porject:
 
 "BMP180" pressure sensor  
 "DHT22" humidity and temperature sensor 
 
-the output is actualy made via the serial monitor. 
+The output is actually made via the serial monitor. 
+Later I want to output the values to an LCD-display
 
 Special thank to Adafruit and oksbwn for give me a lot of the source code i need for this project. 
+
+
+
+
 
 
 Library descriptions: 
