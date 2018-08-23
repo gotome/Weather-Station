@@ -1,5 +1,5 @@
 This source code handles a arduino weather-station with humidity, temperature and pressure sensors. 
-This following Sensor i use for my Porject:
+This following sensors i use for my Porject:
 
 "BMP180" pressure sensor  
 "DHT22" humidity and temperature sensor 
