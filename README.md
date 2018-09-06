@@ -7,7 +7,7 @@ This following sensors i use for my Porject:
 The output is actually made via the serial monitor. 
 Later I want to output the values to an LCD-display
 
-Special thanks to Adafruit and oksbwn for give me a lot of the source code i need for this project. 
+Special thanks to Adafruit and oksbwn for give me a lot of the source code i needed for this project. 
 
 
 
